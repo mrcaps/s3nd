@@ -1,0 +1,6 @@
+Why can't we download while we're uploading?
+    http://forums.dropbox.com/topic.php?id=37061
+    "While syncing a big file I’ve noticed that remote PC is waiting for a file to be fully uploaded before it starts getting it. My question is why? Why not to split a big file in chunks and start downloading it as soon as one of the parts uploaded? I can do it myself, of course, by creating a multi-part archive, but it would be so much better and quicker if DropBox can do it. Is there such a feature? Are there plans to implement it? Didn’t find anything related on VoteBox."
+    
+http://www.filesovermiles.com/
+http://host03.pipebytes.com/

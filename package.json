@@ -1,0 +1,11 @@
+{
+  "name":"s3nd",
+  "version":"0.0.1",
+  "dependencies":{
+    "express":"",
+    "ejs":"",
+    "mongodb":"",
+    "formidable":"",
+    "nodeunit":""
+  }
+}
